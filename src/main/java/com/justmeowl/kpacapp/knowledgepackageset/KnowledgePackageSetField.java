@@ -1,7 +1,6 @@
 package com.justmeowl.kpacapp.knowledgepackageset;
 
 import com.justmeowl.kpacapp.search.Convertable;
-import com.justmeowl.kpacapp.search.Order;
 import com.justmeowl.kpacapp.search.SearchableField;
 
 import java.util.Comparator;

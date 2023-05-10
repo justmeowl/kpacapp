@@ -48,7 +48,6 @@ public class KnowledgePackageController {
             @RequestParam(required = false, defaultValue = "ASC") Order order
     ) {
         System.out.println(order);
-        // TODO: 28.04.2023
         return knowledgePackageService.getFilteredAndSortedKnowledgePackages(
                 id,
                 title,
